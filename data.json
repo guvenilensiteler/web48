@@ -51,6 +51,19 @@
         "promo_code": null,
         "promo_code_yok": "KAYIT OL 2.000₺ BONUS AL",
         "slider_img": ""
+      },
+      {
+        "url": "https://primebahis1.wiki/MgDpdie",
+        "desc": [
+          "444FS DENEME BONUSU"
+        ],
+        "site": "primebahis",
+        "sort": null,
+        "color": "#1a98ff",
+        "miktar": "444FS",
+        "promo_code": null,
+        "promo_code_yok": "%100 İADE BONUSU | ERTESİ GÜN FREESPİNLERİ",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -143,6 +156,10 @@
           {
             "site": "mersobahis",
             "sort": "0"
+          },
+          {
+            "site": "primebahis",
+            "sort": "1"
           }
         ]
       },

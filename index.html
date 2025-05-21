@@ -201,6 +201,13 @@
     }
 </style>
 
+<style>
+    /* mersobahis .png uzantısında .gif kullandığımız için ve gif'in kenarındaki gereksiz padding'ten dolayı küçük gözüküyordu. o yüzden böyle yapıyoruz. 21.05.2025 */
+    a[site="mersobahis"] .left img {
+        transform: scale(1.24);
+    }
+</style>
+
 <body>
 <div id="preloader">
     <svg height="300" width="300">
@@ -502,7 +509,7 @@
         },
         created(){
             this.loading = true;
-            axios.get('https://guvenilensitelergir.com/data.json?v=0.0.1')
+            axios.get('https://guvenilensitelergir.com/data.json?v=0.0.2')
                 .then((response) => {
                     this.client = response.data.html
                     this.king = _.find(this.client.categories, ['id', 1710467155101]);
