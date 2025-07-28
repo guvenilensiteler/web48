@@ -64,6 +64,54 @@
         "promo_code": null,
         "promo_code_yok": "%100 İADE BONUSU | ERTESİ GÜN FREESPİNLERİ",
         "slider_img": ""
+      },
+      {
+        "url": "https://go.aff.intr.live/wet95iyh",
+        "desc": [
+          "İnterbahis'te yeni üyelere özel"
+        ],
+        "site": "interbahis",
+        "sort": null,
+        "color": "#d40c0e",
+        "miktar": "100 FS",
+        "promo_code_yok": "100freebet / 100freespin",
+        "slider_img": ""
+      },
+      {
+        "url": "https://sznrd.xyz/afflink",
+        "desc": [
+          "250₺ DENEME BONUSU"
+        ],
+        "site": "sezonbahis",
+        "sort": null,
+        "color": "#be9337",
+        "miktar": "₺250",
+        "promo_code_yok": "%333 HOŞ GELDİN - %100 DİSCOUNT",
+        "slider_img": ""
+      },
+      {
+        "url": "https://is.gd/irtpLj",
+        "desc": [
+          "3000₺ HOSGELDİN BONUS"
+        ],
+        "site": "gallerbahis",
+        "sort": null,
+        "color": "#e2b725",
+        "miktar": "₺3.000",
+        "promo_code_yok": "YÜKSEK KAZANC ORANI",
+        "slider_img": ""
+      },
+      {
+        "url": "https://t2m.io/es25fsburada",
+        "desc": [
+          "%30 Hoşgeldin Bonusu! | Çapraz Çekim"
+        ],
+        "site": "esbet",
+        "sort": null,
+        "color": "#ca9537",
+        "miktar": "₺500",
+        "promo_code_yok": "Kat Kuralsız ve Ödüllü VIP Sistemi!",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -156,6 +204,22 @@
           {
             "site": "mersobahis",
             "sort": "0"
+          },
+          {
+            "site": "sezonbahis",
+            "sort": "1"
+          },
+          {
+            "site": "esbet",
+            "sort": "2"
+          },
+          {
+            "site": "interbahis",
+            "sort": "3"
+          },
+          {
+            "site": "gallerbahis",
+            "sort": "4"
           }
         ]
       },
