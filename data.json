@@ -124,6 +124,78 @@
         "miktar": "₺2.000",
         "promo_code_yok": "YENİ SİTE / RTP ORANI YÜKSEK",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/orH474Nq",
+        "desc": [
+          "2025 YILININ EN ÇOK KAZANDIRAN SİTESİ"
+        ],
+        "site": "tarafbet",
+        "sort": null,
+        "color": "#178b42",
+        "miktar": "₺10.000",
+        "promo_code_yok": "ESKİ YENİ HERKESE 10.000 TL DENEME BONUSU + KİŞİYE ÖZEL VİP SİSTEMİ",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/vrH45nA5",
+        "desc": [
+          "400 TL DİREKT ÇEKİM DENEME BONUSU!"
+        ],
+        "site": "bankobet",
+        "sort": null,
+        "color": "#ff1376",
+        "miktar": "₺400",
+        "promo_code_yok": "5 TL YATIRIMA BİLE SINIRSIZ ÇEKİM VEREN SİTE",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/krH45j91",
+        "desc": [
+          "Yatırımsız 555 Sweet Bonanza Freespin"
+        ],
+        "site": "betewin",
+        "sort": null,
+        "color": "#ff8d14",
+        "miktar": "555 FS",
+        "promo_code_yok": "Her gün binlerce freespin ve nakit etkinliği",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/KrH4Mp8q",
+        "desc": [
+          "BEDAVA 777 FREESPİN | İLK YATIRIMA %111 TL"
+        ],
+        "site": "betkom",
+        "sort": null,
+        "color": "#1fe0ff",
+        "miktar": "777 FS",
+        "promo_code_yok": "5.555 TL'ye kadar nakit HEDİYESİ + HER YATIRIMA BONUS!",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/NrH49APA",
+        "desc": [
+          "750₺ DENEME BONUSU"
+        ],
+        "site": "bahiscom",
+        "sort": null,
+        "color": "#00c683",
+        "miktar": "₺750",
+        "promo_code_yok": "+ SEN ÇEKENE KADAR LİMİTSİZ %100 BONUS | Ekstra %50 Kayıp Bonusu",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/CrH4M6O8",
+        "desc": [
+          "250₺ DENEME BONUSU | ÇİFTE KAZANÇ %100 BONUSU"
+        ],
+        "site": "mariobet",
+        "sort": null,
+        "color": "#f16227",
+        "miktar": "₺250",
+        "promo_code_yok": "%40 KAYIP BONUSU | KAT KURALI YOK, CEKIMDE LIMIT YOK!",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -222,8 +294,32 @@
             "sort": "2"
           },
           {
-            "site": "esbet",
+            "site": "tarafbet",
             "sort": "3"
+          },
+          {
+            "site": "bankobet",
+            "sort": "4"
+          },
+          {
+            "site": "betewin",
+            "sort": "5"
+          },
+          {
+            "site": "betkom",
+            "sort": "6"
+          },
+          {
+            "site": "bahiscom",
+            "sort": "7"
+          },
+          {
+            "site": "mariobet",
+            "sort": "8"
+          },
+          {
+            "site": "esbet",
+            "sort": "9"
           }
         ]
       },
