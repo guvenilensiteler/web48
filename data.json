@@ -244,6 +244,18 @@
         "miktar": "$200",
         "promo_code_yok": "GLOBAL MARKA",
         "slider_img": ""
+      },
+      {
+        "url": "https://turbokisalink.com/insta",
+        "desc": [
+          "TURBO HIZINDA ANLIK ÖDEME!"
+        ],
+        "site": "turbobahis",
+        "sort": null,
+        "color": "#fec000",
+        "miktar": "444 FS",
+        "promo_code_yok": "HERKES DENESİN DİYE 444 FREESPİN DENEME BONUSU",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -356,6 +368,10 @@
           {
             "site": "betvslot",
             "sort": "6"
+          },
+          {
+            "site": "turbobahis",
+            "sort": "7"
           }
         ]
       },
