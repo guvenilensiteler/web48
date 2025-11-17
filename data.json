@@ -256,6 +256,18 @@
         "miktar": "444 FS",
         "promo_code_yok": "HERKES DENESİN DİYE 444 FREESPİN DENEME BONUSU",
         "slider_img": ""
+      },
+      {
+        "url": "https://t2m.io/hulkhuqqa",
+        "desc": [
+          "İLK YATIRIMINIZA ÖZEL HOŞGELDİN BONUSU"
+        ],
+        "site": "huqqabet",
+        "sort": null,
+        "color": "#00ff79",
+        "miktar": "₺4.444",
+        "promo_code_yok": "TÜM YATIRIMLARA ÖZEL ERTESİ GÜN FREE SPIN",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -353,10 +365,13 @@
             "site": "mersobahis",
             "sort": "2"
           },
-
           {
             "site": "turbobahis",
-            "sort": "7"
+            "sort": "3"
+          },
+          {
+            "site": "huqqabet",
+            "sort": "4"
           }
         ]
       },
