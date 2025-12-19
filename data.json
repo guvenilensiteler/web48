@@ -268,6 +268,18 @@
         "miktar": "₺4.444",
         "promo_code_yok": "TÜM YATIRIMLARA ÖZEL ERTESİ GÜN FREE SPIN",
         "slider_img": ""
+      },
+      {
+        "url": "https://t2m.io/hulkgiris",
+        "desc": [
+          "1000₺ Çekimli deneme bonusu"
+        ],
+        "site": "locabet",
+        "sort": null,
+        "color": "#f5c542",
+        "miktar": "₺1.000",
+        "promo_code_yok": "İlk yatırımınıza özel %50 kayıp bonusu",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -359,6 +371,10 @@
         "sites": [
           {
             "site": "huqqabet",
+            "sort": "0"
+          },
+          {
+            "site": "locabet",
             "sort": "1"
           },
           {
