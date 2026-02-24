@@ -370,11 +370,7 @@
         "sort": "3",
         "sites": [
           {
-            "site": "huqqabet",
-            "sort": "0"
-          },
-          {
-            "site": "locabet",
+            "site": "mersobahis",
             "sort": "1"
           },
           {
@@ -382,8 +378,12 @@
             "sort": "2"
           },
           {
-            "site": "mersobahis",
+            "site": "huqqabet",
             "sort": "3"
+          },
+          {
+            "site": "locabet",
+            "sort": "4"
           }
         ]
       },
